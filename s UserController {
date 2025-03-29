@@ -1,0 +1,11 @@
+[33mcommit aaf1d457738e0a570798acd84f2407e3783c917a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: vaibhav <khotvaibhav900@gmail.com>
+Date:   Mon Mar 17 12:44:36 2025 +0530
+
+    Add User entity, repository and userservice usercontroller configure with MYsql database connection with hibernate
+
+[33mcommit 42238764445b4a1869eeb832cb84c5258f8311a8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: vaibhav <khotvaibhav900@gmail.com>
+Date:   Fri Mar 14 23:31:15 2025 +0530
+
+    Initial commit - virtualLab project setup
